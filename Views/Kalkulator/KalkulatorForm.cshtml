@@ -1,0 +1,14 @@
+﻿@model Kalkulator.Models.KalkulatorModel
+@{
+    ViewData["Title"] = "KalkulatorForm";
+}
+<h1>KalkulatorForm</h1>
+<form action="/Kalkulator/Wynik" method="post">
+    <input type="number" asp-for="Liczba1" />
+    <input type="number" asp-for="Liczba2" />
+    <select asp-for="znak">
+        <option value="dod">Suma</option>
+        <option value="ode">Różnica</option>
+    </select>
+    <input type="submit" />
+</form>
