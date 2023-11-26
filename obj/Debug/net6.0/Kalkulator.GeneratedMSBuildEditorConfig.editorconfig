@@ -9,45 +9,45 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Kalkulator
 build_property.RootNamespace = Kalkulator
-build_property.ProjectDir = C:\Users\domis\source\repos\Kalkulator\
+build_property.ProjectDir = C:\Users\domis\Source\Repos\Kalkulator1\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\domis\source\repos\Kalkulator
+build_property.MSBuildProjectDirectory = C:\Users\domis\Source\Repos\Kalkulator1
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/domis/source/repos/Kalkulator/Views/Home/Index.cshtml]
+[C:/Users/domis/Source/Repos/Kalkulator1/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/domis/source/repos/Kalkulator/Views/Home/Privacy.cshtml]
+[C:/Users/domis/Source/Repos/Kalkulator1/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/domis/source/repos/Kalkulator/Views/Kalkulator/KalkulatorForm.cshtml]
+[C:/Users/domis/Source/Repos/Kalkulator1/Views/Kalkulator/KalkulatorForm.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2Fsa3VsYXRvclxLYWxrdWxhdG9yRm9ybS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/domis/source/repos/Kalkulator/Views/Kalkulator/Wynik.cshtml]
+[C:/Users/domis/Source/Repos/Kalkulator1/Views/Kalkulator/Wynik.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2Fsa3VsYXRvclxXeW5pay5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/domis/source/repos/Kalkulator/Views/Shared/Error.cshtml]
+[C:/Users/domis/Source/Repos/Kalkulator1/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/domis/source/repos/Kalkulator/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/domis/Source/Repos/Kalkulator1/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/domis/source/repos/Kalkulator/Views/_ViewImports.cshtml]
+[C:/Users/domis/Source/Repos/Kalkulator1/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/domis/source/repos/Kalkulator/Views/_ViewStart.cshtml]
+[C:/Users/domis/Source/Repos/Kalkulator1/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/domis/source/repos/Kalkulator/Views/Shared/_Layout.cshtml]
+[C:/Users/domis/Source/Repos/Kalkulator1/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-4ysjnjfk8f

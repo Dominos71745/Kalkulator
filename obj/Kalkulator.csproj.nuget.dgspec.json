@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\domis\\source\\repos\\Kalkulator\\Kalkulator.csproj": {}
+    "C:\\Users\\domis\\Source\\Repos\\Kalkulator1\\Kalkulator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\domis\\source\\repos\\Kalkulator\\Kalkulator.csproj": {
+    "C:\\Users\\domis\\Source\\Repos\\Kalkulator1\\Kalkulator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\domis\\source\\repos\\Kalkulator\\Kalkulator.csproj",
+        "projectUniqueName": "C:\\Users\\domis\\Source\\Repos\\Kalkulator1\\Kalkulator.csproj",
         "projectName": "Kalkulator",
-        "projectPath": "C:\\Users\\domis\\source\\repos\\Kalkulator\\Kalkulator.csproj",
+        "projectPath": "C:\\Users\\domis\\Source\\Repos\\Kalkulator1\\Kalkulator.csproj",
         "packagesPath": "C:\\Users\\domis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\domis\\source\\repos\\Kalkulator\\obj\\",
+        "outputPath": "C:\\Users\\domis\\Source\\Repos\\Kalkulator1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\domis\\AppData\\Roaming\\NuGet\\NuGet.Config",
