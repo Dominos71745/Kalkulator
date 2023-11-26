@@ -18,6 +18,8 @@ namespace Kalkulator.Controllers
            kalkulator.Liczba2;
             else if (kalkulator.znak == "ode") wynik = kalkulator.Liczba1 -
            kalkulator.Liczba2;
+            else if (kalkulator.znak == "mnoz") wynik = kalkulator.Liczba1 * kalkulator.Liczba2;
+            else if (kalkulator.znak == "dziel") wynik = kalkulator.Liczba1 / kalkulator.Liczba2;
             ViewBag.wynik = wynik;
             return View("Wynik", wynik);
         }
